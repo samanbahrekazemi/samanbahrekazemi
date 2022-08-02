@@ -3,7 +3,7 @@
 I'm a Software Engineer interested in building Web & Mobile Applications. I work as a full-time full-stack freelance developer 👨‍💻 working remotely 🚀
 <br/>
 
-## My Skill Set
+## My Skills
 
 <table>
 <tr>
@@ -60,6 +60,3 @@ I'm a Software Engineer interested in building Web & Mobile Applications. I work
     </a>  
 </div>
 
-<br/>
-
-## Github Stats
