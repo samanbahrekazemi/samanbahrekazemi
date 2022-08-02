@@ -4,7 +4,7 @@ I'm a Software Engineer interested in building Web & Mobile Applications. I work
 
 <br/>
 
-## My Skill Set
+## My Skills
 
 <table><tr><td valign="top" width="33%">
 
