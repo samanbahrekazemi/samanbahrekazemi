@@ -30,7 +30,6 @@ I love crafting clean, scalable, and performant solutions — from **frontend in
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" alt="React" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="50" alt="Vue.js" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" height="50" alt="Blazor" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/razor.svg" height="50" alt="Razor Pages" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -40,8 +39,6 @@ I love crafting clean, scalable, and performant solutions — from **frontend in
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="50" alt="C#" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" height="50" alt=".NET" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" alt="Node.js" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/restapi.svg" height="50" alt="REST API" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -52,7 +49,7 @@ I love crafting clean, scalable, and performant solutions — from **frontend in
 <img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="50" alt="SQL Server" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="50" alt="PostgreSQL" />  
 <img style="margin: 10px" src="https://www.svgrepo.com/show/331488/mongodb.svg" height="50" alt="MongoDB" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sqlite-original-wordmark.svg" height="50" alt="SQLite" />  
+<img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/sqlite-logo-black-and-white.png" height="50" alt="SQLite" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" alt="Docker" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" height="50" alt="GitHub" />  
