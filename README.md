@@ -52,7 +52,6 @@ I love crafting clean, scalable, and performant solutions — from **frontend in
 <img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/sqlite-logo-black-and-white.png" height="50" alt="SQLite" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" alt="Docker" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" height="50" alt="GitHub" />  
 </div>
 
 </td></tr></table>
