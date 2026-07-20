@@ -113,7 +113,7 @@ My approach combines **clean architecture principles** with **modern JavaScript 
 
 ## 🎯 Professional Focus
 
-- **Full-Stack Development** — Next.js, Nuxt, React, Vue, .NET 8+
+- **Full-Stack Development** — Next.js, Nuxt, React, Vue, .NET 
 - **Cloud Architecture** — Microservices, Serverless, Container Orchestration
 - **System Design** — Scalable distributed systems, Event-driven architecture
 - **DevOps** — CI/CD pipelines, Infrastructure as Code, Monitoring
